@@ -1,7 +1,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/pakhomov-sys/test/tree/main">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="https://e7.pngegg.com/pngimages/979/184/png-clipart-logo-brand-product-design-ansible-font-restart-and-make-things-better-text-trademark.png" alt="Logo" width="900" height=415">
   </a>
 
   <h3 align="center">Git с ansible palybook'ами</h3>
